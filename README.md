@@ -2,7 +2,7 @@
 
 ## STEP 1
 ```js
-git clone https://github.com/divyavaibhav/LAVALINK-VPS
+git clone https://github.com/vaibhav-chauchan/LAVALINK-VPS
 ```
 
 ## STEP 2
