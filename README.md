@@ -15,6 +15,14 @@ cd LAVALINK-VPS
 pm2 start start.sh
 ```
 
+## EXAMPLE
+```js
+host: "YOUR VPS IP HERE",
+password: "youshallnotpass",
+port: 443
+```
+
+
 ## IMPORTANT
 ```js
 [+] IF YOU WANT YOU CAN CHANGE YOUR PASSWORD FROM (application.yml)
@@ -22,4 +30,4 @@ pm2 start start.sh
 ```
 
 ## SUPPORT
-[SUPPORT SERVER](https://discord.gg/hvVHaeu4n9)
+[DISCORD SERVER](https://discord.gg/hvVHaeu4n9)
