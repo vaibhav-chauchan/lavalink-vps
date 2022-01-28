@@ -12,7 +12,7 @@ cd LAVALINK-VPS
 
 ## STEP 3 
 ```js
-pm2 start start.sh
+pm2 start start.sh or pm2 start java -- -jar Lavalink.jar
 ```
 
 ## EXAMPLE
