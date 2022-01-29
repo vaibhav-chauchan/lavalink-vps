@@ -1,0 +1,14 @@
+{
+    "name": "lavalink-vps",
+    "version": "0.0.1",
+    "main": "lavalink.js",
+    "author": "vaibhav",
+    "license": "MIT",
+    "dependencies": {
+      "got": "^11.8.1"
+    },
+    "scripts": {
+     "start": "bash start.sh"
+    }
+  }
+  
