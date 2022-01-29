@@ -45,3 +45,5 @@ port: 2333
 
 ## SUPPORT
 [DISCORD SERVER](https://discord.gg/hvVHaeu4n9)
+[PARTNER SERVER](https://discord.gg/QyZCbwBWMe)
+[MAIN CREDITS GO TO](https://github.com/freyacodes/Lavalink/tree/3.4)
