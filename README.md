@@ -49,4 +49,3 @@ pm2 start start.sh
 [PARTNER SERVER](https://discord.gg/QyZCbwBWMe)
 
 [MAIN CREDITS GO TO](https://github.com/freyacodes/Lavalink/tree/3.4)
-
