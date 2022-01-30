@@ -19,9 +19,7 @@ pm2 start start.sh
 ```js
 "host": "your vps ip here",
 "password": "youshallnotpass",
-"port": 2333,
-"identifier": "lavalink-vps",     
-"secure": true
+"port": 2333
 ```
 
 ## IMPORTANT
